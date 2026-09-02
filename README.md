@@ -42,3 +42,8 @@ project-root/
 - **What I Do Section** → Skill cards with borders & hover effects
 - **Gallery Section** → Creative grid layout using `grid-template-areas`
 - **Footer** → Two-column layout with social icons & styled contact form
+
+## ⚡ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/zahidul-dev/web14-portfolio-website.git
